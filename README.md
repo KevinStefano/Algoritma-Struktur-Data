@@ -1,4 +1,4 @@
-# Tubes_Alstrukdat
+# Tugas Besar Algoritma dan Struktur Data
 Tubes Alstrukdat K2
 
 ## Kelompok
