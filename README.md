@@ -1,5 +1,5 @@
-# Tugas Besar Algoritma dan Struktur Data
-Tubes Alstrukdat K2
+# STRATEGY GAME
+Untuk memenuhi tugas besar Algoritma Struktur Data
 
 ## Kelompok
 Aqil Abdul Aziz Syafiq	13518002
